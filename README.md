@@ -204,8 +204,6 @@ O app força orientação retrato com `SystemChrome.setPreferredOrientations` e 
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
 Desenvolvido como projeto acadêmico — Disciplina de Desenvolvimento Mobile.
